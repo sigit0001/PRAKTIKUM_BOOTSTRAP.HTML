@@ -1,1 +1,1 @@
-<?php include_once('PRAKTIKUM_BOOTSTREP.html');?>
+<?php include_once('index.html');?>
